@@ -8,13 +8,14 @@ type Props = {
 
 const { editHref } = Astro.props as Props;
 const showMoreSection = CONFIG.COMMUNITY_INVITE_URL;
+const github_link = "https://github.com/theOriginalPerson/mxr-docs";
 ---
 
 {showMoreSection && <h2 class="heading">More</h2>}
 <ul>
 	{editHref && (
 		<li class={`heading-link depth-2`}>
-			<a class="edit-on-github" href={editHref} target="_blank">
+			<a class="edit-on-github" href={github_link} target="_blank">
 				<svg
 					aria-hidden="true"
 					focusable="false"

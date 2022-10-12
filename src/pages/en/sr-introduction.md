@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 ## Being a Senior Developer at MohawkXR
 
-Means reading lots of documentation!
+**Means reading lots of documentation!**
 
 ### So here's a few resources:
 
@@ -16,3 +16,5 @@ Means reading lots of documentation!
 Good luck!
 
 And don't worry, we're here to guide you through the difficult stages of development by making regular standup meetings to walk you through the bugs you encounter.
+
+Feel free to use the **Junior Dev Stuff** to get started, or create some of your own projects! There is no rush.
