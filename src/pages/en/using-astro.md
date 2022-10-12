@@ -22,9 +22,6 @@ and check to make sure they're in the main directory (folder). To install node p
 
 In the main Astro directory, type: <code>npm run dev</code>
 
-#### Things to Keep in Mind
-
-
 
 ## Astro Crash Course
 
