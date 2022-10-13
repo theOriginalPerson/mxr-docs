@@ -58,6 +58,9 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Senior Dev Stuff': [
 			{ text: 'Introduction', link: 'en/sr-introduction' },
+		],
+		'Recordings': [
+			{ text: '2022/2023 Introduction', link: 'en/main-recording' },
 		]
 	},
 };
